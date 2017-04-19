@@ -1,6 +1,6 @@
 # npmtest-node-linkedin
 
-#### test coverage for  [node-linkedin (v0.5.4)](https://github.com/ArkeologeN/node-linkedin)  [![npm package](https://img.shields.io/npm/v/npmtest-node-linkedin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-linkedin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-linkedin.svg)](https://travis-ci.org/npmtest/node-npmtest-node-linkedin)
+#### basic test coverage for  [node-linkedin (v0.5.4)](https://github.com/ArkeologeN/node-linkedin)  [![npm package](https://img.shields.io/npm/v/npmtest-node-linkedin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-linkedin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-linkedin.svg)](https://travis-ci.org/npmtest/node-npmtest-node-linkedin)
 
 #### LinkedIn 2.0 compatible wrapper in node.js
 
